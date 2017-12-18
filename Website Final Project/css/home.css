@@ -1,0 +1,46 @@
+.app{
+	text-decoration: underline;
+}
+
+#tryourapp {
+	display: table;
+	border-spacing: 10px;
+}
+
+#apps {
+	display: table-row;
+}
+
+#pizzaApp {
+	float:right;
+    display: table-cell;
+    color: white;
+    background-color:#FF3C3C;
+    text-align: center;
+    width: 20%;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.right {
+  margin: 10px .50% 0 0;
+  border: 5px solid #32B232;
+}
+
+.top{
+  font-family:      Arial Black, serif;
+  text-align: center;
+}
+
+#upArrow {
+  position: absolute;
+  bottom: -80px;
+  right: -0px;
+}
+
+#upArrow:hover {
+    right: :-20px;
+}
+
+#upArrow a, img {
+    border: none;
