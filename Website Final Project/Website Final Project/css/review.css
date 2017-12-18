@@ -1,0 +1,11 @@
+h2 {
+	text-align: center;
+}
+
+h3{
+	text-decoration: underline;
+	background: #FF3C3C;
+	border: 5px solid #32B232;
+	color: white;
+}
+
